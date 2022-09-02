@@ -23,8 +23,6 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
             <th></th>
             <th><center><img src="{{ 'assets/img/voluntarios/joao_gabriel.jpeg' | relative_url }}" width="100" alt="João Gabriel" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/ieee_logo.png' | relative_url }}" width="100" alt="João Henrique" class="img-fluid rounded-circle"/></center></th>
-          </tr>
         </thead>
         <tbody>
           <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
@@ -34,8 +32,6 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
             <td></td>
             <td width="25%"><center>João Gabriel</center></td>
             <td></td>
-            <td width="25%"><center>João Henrique</center></td>
-          </tr>
           <tr style="text-align: center" >
             <td style="vertical-align: top"><small><center>Voluntário desde 2021 <p/> Líder do projeto</center></small></td>
             <td></td>
@@ -43,8 +39,6 @@ O projeto inclui modelagem 3D no software SolidWorks, cálculos de ganhos de ger
             <td></td>
             <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
             <td></td>
-            <td style="vertical-align: top"><small><center>Voluntário desde 2021</center></small></td>
-          </tr>
         </tbody>
       </table>
     </div>
